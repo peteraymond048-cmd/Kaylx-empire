@@ -1,0 +1,15 @@
+{
+  "name": "kaylx-kai-backend",
+  "version": "1.0.0",
+  "description": "Backend AI service for KAI chat assistant",
+  "main": "api/chat.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=14.x"
+  }
+}
